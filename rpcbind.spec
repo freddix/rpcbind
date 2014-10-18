@@ -1,7 +1,7 @@
 Summary:	portmap replacement which supports RPC over various protocols
 Name:		rpcbind
 Version:	0.2.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Daemons
 Source0:	http://downloads.sourceforge.net/rpcbind/%{name}-%{version}.tar.bz2
